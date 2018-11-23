@@ -18,4 +18,4 @@ use star at start and end of the word or sentence to show it in italic. * *examp
  
 ## **Bold**
 
-just like italics, use double star to show bold letters.  ** **bold** ** . There should be no space between the star and the word or sentence.
+Just like italics, use double star to show bold words.  ** **bold** ** . There should be no space between the star and the word or sentence.
